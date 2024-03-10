@@ -1,5 +1,8 @@
 # NextJS Documentation
 
+## Project
+[Project URL](https://fajarwz.com/blog/simple-full-stack-crud-with-nextjs-14-postgresql-and-prisma/)
+
 ## Features of NextJS
 * Hot Code Reloading: It automatically reloads the application when changes in the code get saved.
 * Automatic Code Splitting: By this feature, every import in the code get bundled and served with each page. It means that unnecessary code never get loaded on the page.
@@ -7,23 +10,15 @@
 * Server Rendering: Easily render react component on server before sending HTML to client.
 * Styled-JSX: Styled-JSX allows you to write CSS directly inside JavaScript code.
 
-## Prisma
-Prisma is a next-generation ORM that can be used to access a database in Node.js and TypeScript applications. In this guide, you'll learn how to implement a sample fullstack blogging application using the following technologies:
-* Next.js as the React framework
-* Next.js API Routes for server-side API routes as the backend
-* Prisma as the ORM for migrations and database access
-* Vercel Postgres as the database
-* NextAuth.js for authentication via GitHub (OAuth)
-* TypeScript as the programming language
-* Vercel for deployment
+## Project 2
+[Project 2](https://www.youtube.com/watch?v=4lUkSgvmTYM)
 
-# Steps
-## start from an existing repo
+### start from an existing repo
 ```
 npx create-next-app --example https://github.com/Yazdun/next-fcc-familyguy/tree/starter nextjs-famguy
 ```
 
-## Dependencies
+### Dependencies
 * @emotion/react
 * @emotion/style
 * @mui/material
